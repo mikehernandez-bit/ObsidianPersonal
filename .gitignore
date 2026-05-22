@@ -1,0 +1,29 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+*.log
+
+# Obsidian local caches/workspace artifacts
+.obsidian/workspace*.json
+.obsidian/cache/
+
+# Large/generated media artifacts (customize as needed)
+04_Procesados/AudiosTTS/
+04_Procesados/Transcripts/
+04_Procesados/Metadata/
+
+# Local binaries/tooling not suited for git
+06_Sistema/ObsidianAcademia/tools/ffmpeg-bin/
+06_Sistema/ObsidianAcademia/tools/piper/
+

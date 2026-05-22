@@ -1,0 +1,99 @@
+﻿# ============================================================
+# ObsidianAcademia - ConfiguraciÃ³n Global
+# ============================================================
+# Edita este archivo para ajustar rutas y parametros del sistema.
+# Las rutas pueden ser absolutas o relativas a esta carpeta del proyecto.
+
+# ---- Vault de Obsidian ----
+vault:
+  path: "..\\.."
+  use_rest_api: false
+  rest_api_url: "http://127.0.0.1:27124"
+  rest_api_key: ""
+
+# ---- Rutas de entrada (dentro del vault) ----
+input:
+  audios: "03_Materiales\\Audios"
+  videos: "03_Materiales\\Videos"
+  imagenes: "03_Materiales\\Imagenes"
+  pdfs: "03_Materiales\\PDFs"
+
+# ---- Rutas de salida (dentro del vault) ----
+output:
+  transcripts: "04_Procesados\\Transcripts"
+  audios_tts: "04_Procesados\\AudiosTTS"
+  metadata: "04_Procesados\\Metadata"
+
+# ---- Herramientas externas ----
+tools:
+  ffmpeg:
+    exe: "tools\\ffmpeg-bin\\ffmpeg.exe"
+    ffprobe: "tools\\ffmpeg-bin\\ffprobe.exe"
+  piper:
+    exe: "tools\\piper\\piper.exe"
+    model: "tools\\voices\\es_ES-mls_10246-low.onnx"
+    config: "tools\\voices\\es_ES-mls_10246-low.onnx.json"
+    speaker: 0
+    length_scale: 1.0
+    sentence_silence: 0.3
+
+# ---- Modelo LLM (Ollama) ----
+llm:
+  provider: "ollama"
+  model: "gemma4:e4b"
+  endpoint: "http://localhost:11434"
+  temperature: 0.7
+  max_tokens: 4096
+  timeout: 120
+
+# ---- TranscripciÃ³n (faster-whisper) ----
+transcription:
+  model_size: "base"
+  device: "cpu"
+  compute_type: "int8"
+  language: "es"
+  timestamps: true
+  beam_size: 5
+
+# ---- Universidad ----
+university:
+  current_cycle: "2026-I"
+  total_weeks: 16
+  courses:
+    - id: "curso_01"
+      name: "Curso 1"
+    - id: "curso_02"
+      name: "Curso 2"
+    - id: "curso_03"
+      name: "Curso 3"
+    - id: "curso_04"
+      name: "Curso 4"
+    - id: "curso_05"
+      name: "Curso 5"
+    - id: "curso_06"
+      name: "Curso 6"
+
+# ---- Watcher ----
+watcher:
+  enabled: false
+  poll_interval: 5
+  watch_extensions:
+    - ".mp3"
+    - ".wav"
+    - ".m4a"
+    - ".ogg"
+    - ".mp4"
+    - ".mkv"
+    - ".avi"
+    - ".webm"
+    - ".png"
+    - ".jpg"
+    - ".jpeg"
+    - ".pdf"
+
+# ---- Logging ----
+logging:
+  level: "INFO"
+  file: "logs/academia.log"
+  console: true
+

@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: eugkg-2hgmr
+created: 2026-04-06T10:07:03-05:00

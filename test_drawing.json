@@ -1,0 +1,481 @@
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.22.0",
+	"elements": [
+		{
+			"id": "nl76QolBatQDcj7DMbBhj",
+			"type": "freedraw",
+			"x": 230.5,
+			"y": 268.41796875,
+			"width": 64,
+			"height": 162.5,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "a0",
+			"roundness": null,
+			"seed": 337941114,
+			"version": 68,
+			"versionNonce": 828986362,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1776297508626,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2,
+					0
+				],
+				[
+					4,
+					-2
+				],
+				[
+					4,
+					-2.5
+				],
+				[
+					5.5,
+					-4
+				],
+				[
+					7.5,
+					-6
+				],
+				[
+					9.5,
+					-8
+				],
+				[
+					12,
+					-10.5
+				],
+				[
+					14,
+					-13
+				],
+				[
+					18.5,
+					-19
+				],
+				[
+					21,
+					-22
+				],
+				[
+					24.5,
+					-27.5
+				],
+				[
+					27.5,
+					-33
+				],
+				[
+					30.5,
+					-37.5
+				],
+				[
+					35,
+					-45
+				],
+				[
+					38,
+					-50.5
+				],
+				[
+					41.5,
+					-56.5
+				],
+				[
+					45.5,
+					-62
+				],
+				[
+					49,
+					-68
+				],
+				[
+					51.5,
+					-71.5
+				],
+				[
+					54.5,
+					-76.5
+				],
+				[
+					57,
+					-80
+				],
+				[
+					59.5,
+					-83
+				],
+				[
+					61,
+					-85.5
+				],
+				[
+					61.5,
+					-86.5
+				],
+				[
+					63,
+					-88
+				],
+				[
+					63.5,
+					-89
+				],
+				[
+					64,
+					-90
+				],
+				[
+					64,
+					-90.5
+				],
+				[
+					63.5,
+					-90
+				],
+				[
+					63,
+					-88.5
+				],
+				[
+					62.5,
+					-86.5
+				],
+				[
+					61.5,
+					-84
+				],
+				[
+					60,
+					-80
+				],
+				[
+					59,
+					-76.5
+				],
+				[
+					57,
+					-68
+				],
+				[
+					55,
+					-63
+				],
+				[
+					51.5,
+					-50
+				],
+				[
+					49,
+					-42
+				],
+				[
+					45.5,
+					-30.5
+				],
+				[
+					42.5,
+					-20.5
+				],
+				[
+					39.5,
+					-9
+				],
+				[
+					38,
+					-2.5
+				],
+				[
+					35.5,
+					8
+				],
+				[
+					33.5,
+					15
+				],
+				[
+					30.5,
+					31.5
+				],
+				[
+					30.5,
+					35
+				],
+				[
+					30.5,
+					38
+				],
+				[
+					30.5,
+					43
+				],
+				[
+					30.5,
+					47.5
+				],
+				[
+					31,
+					51
+				],
+				[
+					31.5,
+					55.5
+				],
+				[
+					32,
+					58.5
+				],
+				[
+					32,
+					59
+				],
+				[
+					32,
+					61.5
+				],
+				[
+					32,
+					63.5
+				],
+				[
+					32,
+					65.5
+				],
+				[
+					32,
+					67
+				],
+				[
+					32,
+					68.5
+				],
+				[
+					31.5,
+					69.5
+				],
+				[
+					31.5,
+					70
+				],
+				[
+					31.5,
+					71
+				],
+				[
+					31,
+					71.5
+				],
+				[
+					30.5,
+					72
+				],
+				[
+					30,
+					72
+				],
+				[
+					29.5,
+					71.5
+				],
+				[
+					29.5,
+					71.5
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true
+		},
+		{
+			"id": "DbkPww7-KCM_46I2Bc5BB",
+			"type": "freedraw",
+			"x": 249,
+			"y": 339.91796875,
+			"width": 28,
+			"height": 1,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "a1",
+			"roundness": null,
+			"seed": 1502354810,
+			"version": 23,
+			"versionNonce": 738890470,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1776297509992,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.5,
+					0
+				],
+				[
+					1.5,
+					0
+				],
+				[
+					2,
+					0
+				],
+				[
+					3,
+					0
+				],
+				[
+					4,
+					0.5
+				],
+				[
+					5,
+					0.5
+				],
+				[
+					6.5,
+					0.5
+				],
+				[
+					8.5,
+					0.5
+				],
+				[
+					10.5,
+					0.5
+				],
+				[
+					12.5,
+					0.5
+				],
+				[
+					14.5,
+					0.5
+				],
+				[
+					17.5,
+					0.5
+				],
+				[
+					19.5,
+					0
+				],
+				[
+					21.5,
+					0
+				],
+				[
+					23.5,
+					0
+				],
+				[
+					25,
+					0
+				],
+				[
+					26,
+					0
+				],
+				[
+					27,
+					-0.5
+				],
+				[
+					27.5,
+					-0.5
+				],
+				[
+					28,
+					-0.5
+				],
+				[
+					28,
+					-0.5
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true
+		}
+	],
+	"appState": {
+		"theme": "dark",
+		"viewBackgroundColor": "#fffce8",
+		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "solid",
+		"currentItemStrokeWidth": 0.5,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 5,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"currentItemArrowType": "round",
+		"currentItemFrameRole": null,
+		"scrollX": 105,
+		"scrollY": -85.16015625,
+		"zoom": {
+			"value": 2
+		},
+		"currentItemRoundness": "round",
+		"gridSize": 20,
+		"gridStep": 5,
+		"gridModeEnabled": false,
+		"gridColor": {
+			"Bold": "rgba(255, 242, 156, 0.5)",
+			"Regular": "rgba(255, 245, 181, 0.5)"
+		},
+		"currentStrokeOptions": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true,
+			"markerName": true,
+			"markerEnabled": true
+		},
+		"objectsSnapModeEnabled": false,
+		"activeTool": {
+			"type": "freedraw",
+			"customType": null,
+			"locked": false,
+			"fromSelection": false,
+			"lastActiveTool": null
+		},
+		"disableContextMenu": false,
+		"bindingPreference": "enabled",
+		"isBindingEnabled": true,
+		"isMidpointSnappingEnabled": true,
+		"boxSelectionMode": "contain"
+	},
+	"files": {}
+}

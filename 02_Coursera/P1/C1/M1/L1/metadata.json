@@ -1,0 +1,16 @@
+{
+  "status": "started",
+  "type": "coursera_lesson",
+  "program": "P1",
+  "course": "C1",
+  "module": "M1",
+  "lesson": "L1",
+  "outputs": {
+    "resumen": "C:\\Users\\jhoan\\Documents\\Obsidian\\Personal\\02_Coursera\\Programa_P1\\Curso_C1\\Modulo_M1\\Leccion_L1\\resumen.md",
+    "cuestionario": "C:\\Users\\jhoan\\Documents\\Obsidian\\Personal\\02_Coursera\\Programa_P1\\Curso_C1\\Modulo_M1\\Leccion_L1\\cuestionario.md",
+    "guion_audio": "C:\\Users\\jhoan\\Documents\\Obsidian\\Personal\\02_Coursera\\Programa_P1\\Curso_C1\\Modulo_M1\\Leccion_L1\\audio_script.md",
+    "audio_tts": "C:\\Users\\jhoan\\Documents\\Obsidian\\Personal\\02_Coursera\\Programa_P1\\Curso_C1\\Modulo_M1\\Leccion_L1\\audio_explicativo.wav",
+    "lesson_note": "C:\\Users\\jhoan\\Documents\\Obsidian\\Personal\\02_Coursera\\Programa_P1\\Curso_C1\\Modulo_M1\\Leccion_L1\\leccion.md"
+  },
+  "errors": []
+}

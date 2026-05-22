@@ -1,0 +1,372 @@
+{
+  "choices": [
+    {
+      "id": "qa-nuevo-curso",
+      "name": "🏫 Nuevo Curso Universitario",
+      "type": "Template",
+      "command": true,
+      "templatePath": "05_Plantillas/TPL_Curso.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": ["01_Universidad"],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "setFileExistsBehavior": false,
+      "fileExistsMode": "Increment the file name"
+    },
+    {
+      "id": "qa-nueva-semana",
+      "name": "📅 Nueva Semana",
+      "type": "Template",
+      "command": true,
+      "templatePath": "05_Plantillas/TPL_Semana.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": ["01_Universidad"],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "setFileExistsBehavior": false,
+      "fileExistsMode": "Increment the file name"
+    },
+    {
+      "id": "qa-sesion-teoria",
+      "name": "📖 Sesión de Teoría",
+      "type": "Template",
+      "command": true,
+      "templatePath": "05_Plantillas/TPL_Sesion_Teoria.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Teo - {{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": ["01_Universidad"],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "setFileExistsBehavior": false,
+      "fileExistsMode": "Increment the file name"
+    },
+    {
+      "id": "qa-sesion-practica",
+      "name": "🔧 Sesión de Práctica",
+      "type": "Template",
+      "command": true,
+      "templatePath": "05_Plantillas/TPL_Sesion_Practica.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Prac - {{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": ["01_Universidad"],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "setFileExistsBehavior": false,
+      "fileExistsMode": "Increment the file name"
+    },
+    {
+      "id": "qa-nueva-tarea",
+      "name": "📋 Nueva Tarea",
+      "type": "Template",
+      "command": true,
+      "templatePath": "05_Plantillas/TPL_Tarea.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Tarea - {{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": ["01_Universidad"],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "setFileExistsBehavior": false,
+      "fileExistsMode": "Increment the file name"
+    },
+    {
+      "id": "qa-coursera-programa",
+      "name": "🎓 Nuevo Programa Coursera",
+      "type": "Template",
+      "command": true,
+      "templatePath": "05_Plantillas/TPL_Coursera_Programa.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": ["02_Coursera"],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "setFileExistsBehavior": false,
+      "fileExistsMode": "Increment the file name"
+    },
+    {
+      "id": "qa-coursera-curso",
+      "name": "📚 Nuevo Curso Coursera",
+      "type": "Template",
+      "command": true,
+      "templatePath": "05_Plantillas/TPL_Coursera_Curso.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": ["02_Coursera"],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "setFileExistsBehavior": false,
+      "fileExistsMode": "Increment the file name"
+    },
+    {
+      "id": "qa-coursera-modulo",
+      "name": "📦 Nuevo Módulo Coursera",
+      "type": "Template",
+      "command": true,
+      "templatePath": "05_Plantillas/TPL_Coursera_Modulo.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": ["02_Coursera"],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "setFileExistsBehavior": false,
+      "fileExistsMode": "Increment the file name"
+    },
+    {
+      "id": "qa-coursera-leccion",
+      "name": "📝 Nueva Lección Coursera",
+      "type": "Template",
+      "command": true,
+      "templatePath": "05_Plantillas/TPL_Coursera_Leccion.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": ["02_Coursera"],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "setFileExistsBehavior": false,
+      "fileExistsMode": "Increment the file name"
+    },
+    {
+      "id": "qa-coursera-process-lesson",
+      "name": "Procesar Leccion Coursera",
+      "type": "Macro",
+      "command": true,
+      "macro": {
+        "id": "macro-coursera-process-lesson",
+        "name": "Procesar Leccion Coursera",
+        "commands": [
+          {
+            "id": "script-coursera-process-lesson",
+            "name": "quickadd_coursera_lesson_actions.js::processLesson",
+            "type": "UserScript",
+            "path": "06_Sistema/scripts/quickadd_coursera_lesson_actions.js",
+            "settings": {}
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "qa-coursera-generate-report",
+      "name": "Generar Informe Leccion Coursera",
+      "type": "Macro",
+      "command": true,
+      "macro": {
+        "id": "macro-coursera-generate-report",
+        "name": "Generar Informe Leccion Coursera",
+        "commands": [
+          {
+            "id": "script-coursera-generate-report",
+            "name": "quickadd_coursera_lesson_actions.js::generateReport",
+            "type": "UserScript",
+            "path": "06_Sistema/scripts/quickadd_coursera_lesson_actions.js",
+            "settings": {}
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "qa-coursera-generate-audio",
+      "name": "Generar Audio Leccion Coursera",
+      "type": "Macro",
+      "command": true,
+      "macro": {
+        "id": "macro-coursera-generate-audio",
+        "name": "Generar Audio Leccion Coursera",
+        "commands": [
+          {
+            "id": "script-coursera-generate-audio",
+            "name": "quickadd_coursera_lesson_actions.js::generateAudio",
+            "type": "UserScript",
+            "path": "06_Sistema/scripts/quickadd_coursera_lesson_actions.js",
+            "settings": {}
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "qa-coursera-generate-quiz",
+      "name": "Generar Cuestionario Leccion Coursera",
+      "type": "Macro",
+      "command": true,
+      "macro": {
+        "id": "macro-coursera-generate-quiz",
+        "name": "Generar Cuestionario Leccion Coursera",
+        "commands": [
+          {
+            "id": "script-coursera-generate-quiz",
+            "name": "quickadd_coursera_lesson_actions.js::generateQuiz",
+            "type": "UserScript",
+            "path": "06_Sistema/scripts/quickadd_coursera_lesson_actions.js",
+            "settings": {}
+          }
+        ]
+      },
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "persistInputPromptDrafts": true,
+  "useSelectionAsCaptureValue": false,
+  "devMode": false,
+  "templateFolderPath": "05_Plantillas",
+  "announceUpdates": "major",
+  "version": "2.12.0",
+  "globalVariables": {},
+  "onePageInputEnabled": false,
+  "disableOnlineFeatures": true,
+  "enableRibbonIcon": true,
+  "showCaptureNotification": true,
+  "showInputCancellationNotification": false,
+  "enableTemplatePropertyTypes": false,
+  "dateAliases": {
+    "t": "today",
+    "tm": "tomorrow",
+    "yd": "yesterday",
+    "nw": "next week",
+    "nm": "next month",
+    "ny": "next year",
+    "lw": "last week",
+    "lm": "last month",
+    "ly": "last year"
+  },
+  "ai": {
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": false,
+    "providers": []
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true,
+    "removeMacroIndirection": true,
+    "migrateFileOpeningSettings": true,
+    "backfillFileOpeningDefaults": true,
+    "setProviderModelDiscoveryMode": true,
+    "migrateProviderApiKeysToSecretStorage": true
+  }
+}

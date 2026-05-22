@@ -1,0 +1,28 @@
+# ObsidianAcademia - Dependencias Python
+# Instalar con: python -m pip install -r requirements.txt
+
+# === Core ===
+click>=8.1
+pyyaml>=6.0
+rich>=13.0
+requests>=2.31
+
+# === Transcripción ===
+faster-whisper>=1.0
+
+# === Extracción de texto ===
+PyMuPDF>=1.24
+pytesseract>=0.3
+Pillow>=10.0
+
+# === LLM ===
+ollama>=0.4
+
+# === Watcher ===
+watchdog>=4.0
+
+# === Plantillas ===
+jinja2>=3.1
+
+# === Utilidades ===
+python-dateutil>=2.8

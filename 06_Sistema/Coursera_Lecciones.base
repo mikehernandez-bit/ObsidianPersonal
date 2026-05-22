@@ -1,0 +1,35 @@
+filters:
+  and:
+    - tipo == "leccion_coursera"
+properties:
+  file.link:
+    displayName: Leccion
+  programa:
+    displayName: Programa
+  curso:
+    displayName: Curso
+  modulo:
+    displayName: Modulo
+  transcript_status:
+    displayName: Transcript
+  report_status:
+    displayName: Informe
+  quiz_status:
+    displayName: Quiz
+  audio_status:
+    displayName: Audio
+  file.mtime:
+    displayName: Actualizado
+views:
+  - type: table
+    name: Lecciones Coursera
+    order:
+      - file.link
+      - programa
+      - curso
+      - modulo
+      - transcript_status
+      - report_status
+      - quiz_status
+      - audio_status
+      - file.mtime
