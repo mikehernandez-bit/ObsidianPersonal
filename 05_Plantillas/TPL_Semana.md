@@ -88,8 +88,10 @@ const cursoEsc = escapeValue(cursoNombre);
 const cicloEsc = escapeValue(ciclo);
 const semanaEsc = escapeValue(semanaNombre);
 const targetFolder = `${basePath}/${ciclo}/${cursoNombre}/${semanaNombre}`;
+const materialFolder = `${targetFolder}/Material`;
 
 await ensureFolder(targetFolder);
+await ensureFolder(materialFolder);
 await tp.file.move(`${targetFolder}/${semanaNombre}`);
 
 const lines = [

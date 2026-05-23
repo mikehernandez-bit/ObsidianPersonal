@@ -26,11 +26,13 @@ tags:
 
 {{ contenido | default("*Pendiente de procesamiento...*") }}
 
-## Notas de clase
+## Notas
+
+### Informacion
 
 *Escribe aquí tus notas durante la clase...*
 
-## Preguntas durante la clase
+### Preguntas
 
 - 
 

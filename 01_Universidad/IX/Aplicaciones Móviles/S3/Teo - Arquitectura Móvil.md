@@ -34,18 +34,11 @@ tags:
 
 ## Notas
 
-### Punto 1
+### Informacion
+> 
 
-
-
-### Punto 2
-
-
-
-### Punto 3
-
-
-
+### Preguntas
+- 
 ---
 
 ## Conceptos clave

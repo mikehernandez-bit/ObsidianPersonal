@@ -1,13 +1,3 @@
 [
-  "obsidian-excalidraw-plugin",
-  "templater-obsidian",
-  "kanban-bases-view",
-  "obsidian-tasks-plugin",
-  "quickadd",
-  "dataview",
-  "omnisearch",
-  "text-extractor",
-  "daily-notes-editor",
-  "buttons",
-  "super-duper-audio-recorder"
+  "obsidian-annotator"
 ]

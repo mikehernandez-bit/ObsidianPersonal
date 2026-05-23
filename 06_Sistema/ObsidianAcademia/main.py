@@ -359,6 +359,7 @@ SORT semana ASC
             week_dir = f"{course_dir}/Semana_{week:02d}"
             (settings.vault_path / week_dir / "Teoria").mkdir(parents=True, exist_ok=True)
             (settings.vault_path / week_dir / "Practica").mkdir(parents=True, exist_ok=True)
+            (settings.vault_path / week_dir / "Material").mkdir(parents=True, exist_ok=True)
 
             # Nota de semana
             week_frontmatter = build_frontmatter({
@@ -392,7 +393,7 @@ SORT file.name ASC
 """
             writer.write_note(f"{week_dir}/_semana.md", week_content, overwrite=True)
 
-        console.print(f"  📁 {settings.total_weeks} semanas creadas (Teoria + Practica)")
+        console.print(f"  📁 {settings.total_weeks} semanas creadas (Teoria + Practica + Material)")
 
         # Crear carpeta de tareas
         tareas_dir = f"{course_dir}/Tareas"
@@ -658,6 +659,7 @@ def init_week(ctx, curso, semana):
 
     (settings.vault_path / week_dir / "Teoria").mkdir(parents=True, exist_ok=True)
     (settings.vault_path / week_dir / "Practica").mkdir(parents=True, exist_ok=True)
+    (settings.vault_path / week_dir / "Material").mkdir(parents=True, exist_ok=True)
 
     frontmatter = build_frontmatter({
         "tipo": "semana",

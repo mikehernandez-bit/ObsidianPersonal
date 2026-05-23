@@ -34,22 +34,22 @@ tags:
 
 ## Notas
 
-### Preguntas en clase 
+### Informacion
+> 
+
+### Preguntas
 - Que es JetBrains?
-- que carpetas se crearon cuando creas un proyecto en android studio? 
+- que carpetas se crearon cuando creas un proyecto en android studio?
 - Arquitectura de la plataforma Android studio?
-- Que es Gradle? Que hace Gradle? Sin Gradle se podrá ejecutar? Se genera siempre un APK? 
-- Que es ART? Flujo del ART? Que es Dalvik? Que es ByteCode? 
+- Que es Gradle? Que hace Gradle? Sin Gradle se podrá ejecutar? Se genera siempre un APK?
+- Que es ART? Flujo del ART? Que es Dalvik? Que es ByteCode?
 - Cuando crearon su primer proyecto hasta que versión aguanta?
 - Comparación de Dalvik y ART
 - Ventajas de ART
 - Tipos de compilación ART
-- Herramientas de desarrollo: Instalación de la JDK y SDK 
+- Herramientas de desarrollo: Instalación de la JDK y SDK
 - Que es JDK? Que es SDK? Que incluye SDK? Comparación de JDK y SDK? Ejemplo práctico cuando un estudiante trabaja en Android studio?
 - 4 componentes ? Activity ( consume muchos recursos y la solución es trabajar con frame) + Services (se ejecuta en segundo plano) + Broadcast Receiver + Content Provider
-- 
-### Informacion
-
 ---
 
 ## Conceptos clave

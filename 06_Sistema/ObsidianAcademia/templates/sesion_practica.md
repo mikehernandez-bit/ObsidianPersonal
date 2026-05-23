@@ -22,33 +22,15 @@ tags:
 
 - 
 
-## Ejercicios resueltos
+## Notas
 
-### Ejercicio 1
-
-**Enunciado:**
-
-**Solución:**
-
-### Ejercicio 2
-
-**Enunciado:**
-
-**Solución:**
-
-## Herramientas utilizadas
-
-- 
-
-## Código / Procedimiento
-
-```
-(Código o procedimiento aquí)
-```
-
-## Resultados
+### Informacion
 
 {{ contenido | default("*Pendiente...*") }}
+
+### Preguntas
+
+- 
 
 ## Observaciones
 

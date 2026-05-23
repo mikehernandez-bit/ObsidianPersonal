@@ -1,0 +1,58 @@
+{
+  "main": {
+    "id": "mobile-main",
+    "type": "split",
+    "children": [
+      {
+        "id": "mobile-tabs",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "mobile-pdf-leaf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01_Universidad/PDF_TEST_OBSIDIAN.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "SESION 04 - AM"
+            }
+          }
+        ],
+        "currentTab": 0
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "mobile-drawer",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "mobile-explorer",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorador de archivos"
+        }
+      }
+    ]
+  },
+  "right": {
+    "id": "mobile-right-drawer",
+    "type": "mobile-drawer",
+    "children": []
+  },
+  "active": "mobile-pdf-leaf",
+  "lastOpenFiles": [
+    "01_Universidad/PDF_TEST_OBSIDIAN.pdf",
+    "01_Universidad/IX/Aplicaciones Móviles/S5/Material/SESION 05 - AM.pdf",
+    "01_Universidad/IX/Aplicaciones Móviles/S3/Material/SESION 03 - AM.pdf"
+  ]
+}

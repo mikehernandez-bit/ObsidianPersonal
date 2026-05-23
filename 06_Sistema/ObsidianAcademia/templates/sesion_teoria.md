@@ -22,9 +22,15 @@ tags:
 
 - 
 
-## Desarrollo teórico
+## Notas
+
+### Informacion
 
 {{ contenido | default("*Notas pendientes...*") }}
+
+### Preguntas
+
+- 
 
 ## Conceptos clave
 

@@ -35,17 +35,11 @@ tags:
 
 ## Notas
 
-### Punto 1
+### Informacion
 - Estoy interesado en este mundo de la parte de ataques cibernéticos como hacerlo.
+
+### Preguntas
 - 
-### Punto 2
-
-
-
-### Punto 3
-
-
-
 ---
 
 ## Conceptos clave

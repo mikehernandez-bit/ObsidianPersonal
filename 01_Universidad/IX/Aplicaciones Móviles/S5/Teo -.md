@@ -34,22 +34,14 @@ tags:
 
 ## Notas
 
-### Preguntas 
+### Informacion
+> 
+
+### Preguntas
 - 4 componentes de android studio
 - 5 capas de android studio
-- las carpetas del res: 
+- las carpetas del res:
 - 
-
-
-
-### Punto 2
-
-
-
-### Punto 3
-
-
-
 ---
 
 ## Conceptos clave

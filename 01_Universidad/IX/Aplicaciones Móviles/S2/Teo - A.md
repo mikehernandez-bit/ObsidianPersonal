@@ -34,42 +34,37 @@ tags:
 
 ## Notas
 
-### Punto 1
-Hoy hubo exposición en clases: 
+### Informacion
+Hoy hubo exposición en clases:
 Exponer sobre los dispositivos 2g y 3g
 Ver qué sensores tenían estos dispositivos
-### Punto 2
-Luego de la exposición pasamos a la explicación del desarrollo teórico 
+Luego de la exposición pasamos a la explicación del desarrollo teórico
 - Practicar Kotlin tengo que practicar sobre este lenguaje de programación.
-- ¿Que es una aplicación Móvil?
 - wereable
 - cuando una aplicación crece de web a móvil está no tendra todas las funcionalidades del sistema web
 - por ejemplo: WhatsApp era móvil especialmente pero creció para el sistema web pero no tiene todas las funcionalidades del móvil (tiene restricciones )
+**Conceptos Técnicos Fundamentales (los puntos que se tocó en esta diapositiva)**
+- lo primero que haces es descargar el SDK en nuestro caso Android
+*Nota: colocar más información en esta dos puntos*
+**1G vs 2G** (DIAPO 5)
+- había roaming pero no internacional
+- en los años 90 sale los mensajes de 150 caracteres
+**Hitos del Hardware Móvil** (DIAPO)
+-
+
+### Preguntas
+- ¿Que es una aplicación Móvil?
 - colocar un ejemplo del caso contraria
 - que sensores salieron en cada generación
-**Conceptos Técnicos Fundamentales (los puntos que se tocó en esta diapositiva)**
-- lo primero que haces es descargar el SDK en nuestro caso Android 
-**Evolución histórico : los inicios** (DIAPO 3)
 - en que evento se desarrollo la primera computadora (primera guerra mundial)
 - en que evento se desarrollo el internet (en la guerra fría)
-*Nota: colocar más información en esta dos puntos* 
-**1G vs 2G** (DIAPO 5) 
-- que era roaming 
-- había roaming pero no internacional 
-- en los años 90 sale los mensajes de 150 caracteres 
-- Cuantos caracteres hoy en día se puede enviar por texto 
+- que era roaming
+- Cuantos caracteres hoy en día se puede enviar por texto
 - de donde a donde se coloco el modelo ascii del 0 al 255
 - capaz la versión beta salió en 2g y se estandarizó en 3g
-**3G VS 4G VS 5G** (DIAPO 5)
-- que marco la primera generacion de computadoras 
-- primer lenguaje de programación 
-- migración de empresas porque migran esas empresas 
-**Hitos del Hardware Móvil** (DIAPO)
-- 
-
-
-
-
+- que marco la primera generacion de computadoras
+- primer lenguaje de programación
+- migración de empresas porque migran esas empresas
 ---
 
 ## Conceptos clave

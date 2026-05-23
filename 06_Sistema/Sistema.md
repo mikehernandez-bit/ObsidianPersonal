@@ -98,8 +98,8 @@ Guia recomendada:
 [[Reproducir_Sistema_Completo]]
 
 Manuales:
-[[Manuales/Manual_Sync_Linux_Windows_Android_y_Ajustes_CrossPlatform]]
-[[Manuales/Linux/Manual_Linux_Syncthing_Piper_Ollama_Gemma]]
+[[Manuales/Linux/syncthing_linux_crossplatform]]
+[[Manuales/Linux/linux_piper_ollama_gemma_setup]]
 
 ### Modelo IA
 - **Modelo:** Gemma 4 E4B (via Ollama)

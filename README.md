@@ -38,6 +38,6 @@ python3 06_Sistema/ObsidianAcademia/main.py validate
 
 ## Manuales
 
-- `06_Sistema/Manuales/Manual_Sync_Linux_Windows_Android_y_Ajustes_CrossPlatform.md`
-- `06_Sistema/Manuales/Linux/Manual_Linux_Syncthing_Piper_Ollama_Gemma.md`
-- `06_Sistema/Manuales/Linux/Manual_Publicacion_GitHub_ObsidianPersonal.md`
+- `06_Sistema/Manuales/Linux/syncthing_linux_crossplatform.md`
+- `06_Sistema/Manuales/Linux/linux_piper_ollama_gemma_setup.md`
+- `06_Sistema/Manuales/github_publicacion_obsidianpersonal.md`

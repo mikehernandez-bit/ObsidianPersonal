@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "55c37c58d7f6d71d",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb58213c636eb8af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "531a08d846ef71f1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01_Universidad/PDF_TEST_OBSIDIAN_fixed.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "PDF_TEST_OBSIDIAN_fixed"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a94bb690a236327f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd781924b03bbee4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7c2c00f6d52ac36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "0a69795c73b3b412",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "165f2ce09d84b452",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2329ef123e95fc52",
+    "type": "split",
+    "children": [
+      {
+        "id": "58843bbcfedfdcc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c4f3170d466e532",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_Universidad/IX/Aplicaciones Móviles/S1/S1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de S1"
+            }
+          },
+          {
+            "id": "a65f523860e1e5f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "e0f4202a94dea259",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "8ebca2673127032f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          },
+          {
+            "id": "188ce0ddffb38335",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "00_Dashboard/Dashboard.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Notas al pie"
+            }
+          },
+          {
+            "id": "c4995625530c5f7f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "zk-prefixer:Crear nueva nota única": false,
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+      "audio-recorder:Iniciar/Detener la grabación": false,
+      "markdown-importer:Abrir el importador de Markdown": false,
+      "random-note:Abrir nota al azar": false,
+      "publish:Publicar cambios...": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "quickadd:QuickAdd": false,
+      "omnisearch:Omnisearch": false,
+      "daily-notes-editor:Open Daily Note Editor": false,
+      "super-duper-audio-recorder:Start/Stop Recording": false
+    }
+  },
+  "active": "531a08d846ef71f1",
+  "lastOpenFiles": [
+    "01_Universidad/PDF_TEST_OBSIDIAN.pdf",
+    "01_Universidad/IX/Aplicaciones Móviles/S5/Material/sesion 05-am.pdf.bak",
+    "01_Universidad/IX/Aplicaciones Móviles/S5/Material/SESION 05 - AM.pdf.bak",
+    "01_Universidad/IX/Aplicaciones Móviles/S4/Material/sesion 04-am.pdf.bak",
+    "01_Universidad/IX/Aplicaciones Móviles/S4/Material/SESION 04 - AM.pdf.bak",
+    "01_Universidad/IX/Aplicaciones Móviles/S3/Material/sesion 03 - am_compressed.pdf.bak",
+    "01_Universidad/IX/Aplicaciones Móviles/S3/Material/SESION 03 - AM.pdf.bak",
+    "01_Universidad/IX/Aplicaciones Móviles/S2/Material/TEO S01 - Arquitectura Android.pdf.bak",
+    "01_Universidad/IX/Aplicaciones Móviles/S2/Material/SESION 02 - AM.pdf.bak",
+    "01_Universidad/IX/Aplicaciones Móviles/S1/Material/TEO S01 - Introducción Aplicaciones Moviles.pdf.bak",
+    "01_Universidad/IX/Aplicaciones Móviles/S1/Material/TEO S01 - Fundamentos, Evolución y Paradigmas de Desarrollo.pdf.bak",
+    "01_Universidad/IX/Aplicaciones Móviles/S2/Teo - A.md",
+    "01_Universidad/IX/Aplicaciones Móviles/S3/Teo - Arquitectura Móvil.md",
+    "01_Universidad/IX/Aplicaciones Móviles/S4/Teo -.md",
+    "01_Universidad/IX/Aplicaciones Móviles/S1/S1.md",
+    "06_Sistema/Manuales/Manual_Sync_Linux_Windows_Android_y_Ajustes_CrossPlatform.md",
+    "01_Universidad/IX/Aplicaciones Móviles/S5/S5.md",
+    "01_Universidad/IX/Aplicaciones Móviles/S5/Teo -.md",
+    "01_Universidad/IX/Seguridad Informática/S1/S1.md",
+    "01_Universidad/IX/Algoritmos Evolutivos y de Aprendizaje/S1/S1.md",
+    "01_Universidad/_index.md",
+    "01_Universidad/IX/Algoritmos Evolutivos y de Aprendizaje/Algoritmos Evolutivos y de Aprendizaje.md",
+    "02_Coursera/P1/C1/M1/L1/L1.md",
+    "02_Coursera/Programa_Prueba/Curso_Fisica/Modulo_MRU/Leccion_Vision_real/resumen.md",
+    "06_Sistema/vision_real_test/informe.md",
+    "06_Sistema/vision_real_test/vision_real_test.md",
+    "06_Sistema/vision_real_test/tmp_gemma_vision_test.png",
+    "06_Sistema/tmp_gemma_vision_test.png",
+    "02_Coursera/P1/C1/M1/L1/audio_script.md",
+    "02_Coursera/P1/C1/M1/L1/resumen.md",
+    "02_Coursera/P1/C1/M1/L1/cuestionario.md",
+    "02_Coursera/P1/C1/M1/L1/informe.md",
+    "02_Coursera/Programa_P1/Curso_C1/Modulo_M1/Leccion_L1/leccion.md",
+    "02_Coursera/Programa_P1/Curso_C1/Modulo_M1/Leccion_L1/audio_script.md",
+    "02_Coursera/Programa_P1/Curso_C1/Modulo_M1/Leccion_L1/cuestionario.md",
+    "02_Coursera/Programa_P1/Curso_C1/Modulo_M1/Leccion_L1/resumen.md",
+    "00_Dashboard/Dashboard.md",
+    "02_Coursera/_index.md",
+    "Pasted image 20260416095246.png",
+    "drawing.svg",
+    "node_modules/png-chunks-encode/test.png",
+    "node_modules/png-chunk-text/test.png",
+    "node_modules/png-chunks-extract/test.png",
+    "node_modules/pwacompat/demo/logo-128.png",
+    "node_modules/pwacompat/demo/logo-32.png",
+    "node_modules/pwacompat/demo/logo-192.png",
+    "Sin título.canvas"
+  ]
+}
